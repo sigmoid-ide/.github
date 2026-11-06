@@ -33,6 +33,7 @@ The glyphs use the IntelliJ New UI icon colours: `#6C707E` on light themes, `#CE
 
 - Use the files as they are: don't stretch, rotate or recolour the mark.
 - Below 32 px, use `sigmoid-ide-16.svg`; in a toolbar, the glyph.
-- Hunch keeps its own logo; both share the Night tile, the light line and the yellow dot.
+- Each tool (Hunch, and the ones after it) has its own mark built the same way: the Night tile, light round-capped
+  lines, and one yellow dot. Add each tool as a row in [the org profile](../profile/README.md).
 
 The name and logo identify this project. Use them to link to or write about Sigmoid IDE, not to name other products.
