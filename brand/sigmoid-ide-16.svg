@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 160 160" role="img" aria-label="Sigmoid IDE">
+  <defs>
+    <clipPath id="sigmoid-ide-16-core"><circle cx="80" cy="80" r="46"/></clipPath>
+  </defs>
+  <rect width="160" height="160" rx="36" fill="#14112B"/>
+  <path d="M20 112 C56 112 66 101 80 80 C94 59 102 48 134 48" fill="none" stroke="#F4F1FF" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="80" cy="80" r="46" fill="#F4F1FF"/>
+  <path d="M20 112 C56 112 66 101 80 80 C94 59 102 48 134 48" fill="none" stroke="#14112B" stroke-width="16" clip-path="url(#sigmoid-ide-16-core)"/>
+  <circle cx="136" cy="48" r="14" fill="#FFD166"/>
+</svg>
