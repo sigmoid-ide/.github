@@ -19,7 +19,7 @@
     <td>
       <b><a href="https://github.com/sigmoid-ide/hunch">Hunch</a></b><br>
       A journal for your ML experiments. Every run keeps its code, config, metrics and why you ran it.<br>
-      <code>pip install sigmoid-hunch</code> · <a href="https://github.com/sigmoid-ide/hunch-jetbrains">PyCharm plugin</a> · <a href="https://marketplace.visualstudio.com/items?itemName=sigmoid-ide.hunch">VS Code extension</a>
+      <code>pip install sigmoid-hunch</code> · <a href="https://plugins.jetbrains.com/plugin/35831-hunch">PyCharm plugin</a> · <a href="https://marketplace.visualstudio.com/items?itemName=sigmoid-ide.hunch">VS Code extension</a>
     </td>
   </tr>
 </table>
